@@ -29,6 +29,9 @@ cargo update
 cargo build
 cargo run
 ```
+### Create Graph
+ 
+[Instruction](https://github.com/SimonBerghem/Digital-Vinter/blob/master/app/Create_a_graph.pdf)
 
 ### Database
 
